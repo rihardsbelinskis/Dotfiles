@@ -1,8 +1,18 @@
-# Dotfiles
-## Dotfiles of my i3
+# Dotfiles (last update 07-09-2019)
+## Dotfiles for i3
 
 * ~/.config/i3/config
 * ~/.config/i3/monitor
+
+## Dotfiles for i3status
+
+* ~/.config/i3status/config
+
+## Dotfiles for compton
+
+* ~/.config/compton.conf
+
+> compton.conf is a transparent background for i3-sensible-terminal
 
 ## Weechat
 1. Download the autojoin.py script to ~/.weechat/python/autoload
