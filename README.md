@@ -21,3 +21,8 @@
 4. Run `/layout store` to store the order of the channels
 5. Run `/save` to save your settings to a file
 
+## KiCAD
+
+## FreeCAD
+
+## Slic3r
