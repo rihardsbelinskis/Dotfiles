@@ -1,4 +1,4 @@
-# Dotfiles (last update 10-09-2019)
+# Dotfiles (last update 07-10-2020)
 ## Dotfiles for i3
 
 * ~/.config/i3/config
