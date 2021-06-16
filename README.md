@@ -26,3 +26,7 @@
 ## FreeCAD
 
 ## Slic3r
+
+## TexLive, texmaker
+1. Run `sudo apt install texlive-full`
+2. Run `sudo apt install texmaker`
